@@ -20,8 +20,8 @@ const Feedback = () => {
               Where Luxury Drives Excellence
             </h4>
             <p className="mt-2.5 sm:mt-5 font-normal sm:text-lg text-md leading-6 text-slate-400">
-              Code scrapper is your premier choice for a brand-new chauffeured
-              car service in Melbourne.
+              Road Roamer is your premier choice for a brand-new chauffeured
+              car service in the California.
             </p>
           </div>
           <p className="mt-2.5 sm:mt-5 font-normal sm:text-lg text-md leading-6 text-slate-400">

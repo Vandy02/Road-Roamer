@@ -11,7 +11,7 @@ const AboutUs = () => {
       <Banners
         img="/about-banner.jpg"
         title="ABOUT US"
-        text="We are an all-new chauffeured car service driving Victoria"
+        text="We are an all-new chauffeured car service driving all around the California."
       />
       <TitleText
         title={<span className="">About Us</span>}

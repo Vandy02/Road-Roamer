@@ -9,7 +9,7 @@ import CitySelect from "./CitySelect";
 import dynamic from "next/dynamic";
 
 const StepOne = ({ form }) => {
-  const getCities = City?.getCitiesOfState("PK", "PB");
+  const getCities = City?.getCitiesOfState("US", "CA");
   const [getSource, setSource] = useState(null);
   const [getDestination, setDestination] = useState(null);
 
@@ -24,6 +24,7 @@ const StepOne = ({ form }) => {
           <DateTimeForm
             id="pickupdate"
             label="Pickup Date"
+            placeholder="Set pickup date"
             control={form.control}
           />
           <SelectForm
@@ -60,7 +61,7 @@ const StepOne = ({ form }) => {
             id="transfertype"
             label="Transfer Type"
             placeholder="Select transfer type"
-            list={["one way", "return"]}
+            list={["One Way", "Return"]}
             control={form.control}
           />
         </form>

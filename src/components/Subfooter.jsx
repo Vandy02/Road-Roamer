@@ -42,7 +42,7 @@ const Subfooter = () => {
           <div className="flex flex-col gap-2">
             <h5 className="text-2xl text-gray-900 font-bold">About Us</h5>
             <p className="mb-4 text-base text-gray-500 border-l-4 border-third-color pl-4">
-              Discover Unmatched Luxury Travel with Limolux in Melbourne’s
+              Discover Unmatched Luxury Travel with Limolux in California’s
               Finest Experience.
             </p>
           </div>

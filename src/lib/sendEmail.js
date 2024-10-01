@@ -57,7 +57,7 @@ export const sendEmail = async (options) => {
                   <p><span style="font-weight:bold">Price: </span>${
                     detail.price
                   }</p>
-                  <p><span style="font-weight:bold">Number of persons: </span>${
+                  <p><span style="font-weight:bold">Number of people: </span>${
                     detail.persons
                   }</p>
                   <p><span style="font-weight:bold">First Name: </span>${

@@ -41,7 +41,7 @@ export const profile = [
   },
   {
     title: "Quotes",
-    text: "Your definitive decision for lavish or high-limit transport, whenever, anyplace in Melbourne.",
+    text: "Your definitive decision for lavish or high-limit transport, whenever, anyplace in USA.",
     icon: "quote-left",
     img: "/banner-2.jpg",
   },
@@ -59,21 +59,21 @@ export const exploreWorlds = [
     imgUrl: "/planet-01.jpg",
     title: "Secure, Dependable, and Opulent",
     description:
-      "At Limolux, we understand your desires – a seasoned chauffeur behind the wheel, complemented by a flawlessly stylish ride.",
+      "At Road Roamer, we understand your desires – a seasoned chauffeur behind the wheel, complemented by a flawlessly stylish ride.",
   },
   {
     id: "world-2",
     imgUrl: "/planet-02.jpg",
     title: "Vehicles For Any Occasion",
     description:
-      "From Unmatched Luxury to Spacious Comfort: Limolux Awaits Your Selection!",
+      "From Unmatched Luxury to Spacious Comfort: Road Roamer Awaits Your Selection!",
   },
   {
     id: "world-3",
     imgUrl: "/planet-03.jpg",
     title: "Need Wedding Transportation?",
     description:
-      "On your wedding day, Limolux delivers the ultimate luxury ride for an unforgettable journey.",
+      "On your wedding day, Road Roamer delivers the ultimate luxury ride for an unforgettable journey.",
   },
 ];
 
@@ -101,7 +101,7 @@ export const homeCards = [
 export const serviceList = [
   {
     id: 1,
-    text: "Experience top-level unwavering quality and extravagance with our Melbourne Air terminal exchanges. Whether you're an independent voyager or with family, we offer a warm meet-and-welcome help, gear help, and continuous traffic and flight following for reliable appearances. Sit back, loosen up, and show up revived, day or night.",
+    text: "Experience top-level unwavering quality and extravagance with our Air terminal exchanges. Whether you're an independent voyager or with family, we offer a warm meet-and-welcome help, gear help, and continuous traffic and flight following for reliable appearances. Sit back, loosen up, and show up revived, day or night.",
     title: "Airport transfers",
     img: "/airport-transfer-update.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -109,7 +109,7 @@ export const serviceList = [
   },
   {
     id: 2,
-    text: "Hoist the recollections of your impending exceptional occasion with Limolux. Whether it's a wedding, hen's party, or birthday festivity, add a bit of extravagance with our flawless vehicles. Need space for an enormous gathering? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Runner at your service. It's not just transportation; it's an experience tailored to ensure you and your guests make a grand entrance.",
+    text: "Hoist the recollections of your impending exceptional occasion with Road Roamer. Whether it's a wedding, hen's party, or birthday festivity, add a bit of extravagance with our flawless vehicles. Need space for an enormous gathering? Arrive in ultimate style, day or night, with our 15-seater Mercedes Benz Runner at your service. It's not just transportation; it's an experience tailored to ensure you and your guests make a grand entrance.",
     title: "Weddings and parties",
     img: "/parties.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -117,7 +117,7 @@ export const serviceList = [
   },
   {
     id: 3,
-    text: "Limolux escort excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you're meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
+    text: "Road Roamer escort excels in corporate, executive, and celebrity transportation, ensuring a serene and seamless journey on every ride. Whether you're meeting a valued client or attending a pivotal business appointment, our service ensures you arrive in a state of relaxation and rejuvenation, allowing you to concentrate on what truly matters. We take pride in delivering smooth, expert, and dependable experiences, without fail.",
     title: "Corporate transfers",
     img: "/blog-3.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -125,7 +125,7 @@ export const serviceList = [
   },
   {
     id: 4,
-    text: "From a speedy parent-and-kid escape to a full-scale family experience, permit us to work on your family travel insight. Going with a baby? We'll deal with the pre-establishment of any necessary seats before we show up. Limolux offers a safe, reliable, and extravagant answer for all your family transportation prerequisites. While arranging your next family get-away, make sure to hold an air terminal exchange with Limolux to guarantee a tranquil and agreeable beginning to your excursion.",
+    text: "From a speedy parent-and-kid escape to a full-scale family experience, permit us to work on your family travel insight. Going with a baby? We'll deal with the pre-establishment of any necessary seats before we show up. Road Roamer offers a safe, reliable, and extravagant answer for all your family transportation prerequisites. While arranging your next family get-away, make sure to hold an air terminal exchange with Road Roamer to guarantee a tranquil and agreeable beginning to your excursion.",
     title: "Family transfers",
     img: "/family-transfer.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -133,7 +133,7 @@ export const serviceList = [
   },
   {
     id: 5,
-    text: "Melbourne positions among Australia's top traveler areas of interest, and Limolux offers you a definitive freedom to find the state's famous attractions. Permit us to direct you along the pleasant Extraordinary Sea Street in sheer plushness, empowering you to appreciate the view and encounters at your own relaxed speed.",
+    text: "Road Roamer offers you a definitive freedom to find the country's famous attractions. Permit us to direct you along the pleasant Extraordinary Sea Street in sheer plushness, empowering you to appreciate the view and encounters at your own relaxed speed.",
     title: "Sightseeing",
     img: "/sightseeing.jpg",
     variant1: fadeIn("right", "tween", 0.2, 1),
@@ -141,7 +141,7 @@ export const serviceList = [
   },
   {
     id: 6,
-    text: "Investigate Victoria's head wineries and shop bottling works, crossing from the Mornington Promontory to the Yarra Valley. Travel flawlessly and securely between these uncommon locations in our lavish driver driven vehicles. Whether it's a heartfelt event with an accomplice or a gathering experience, raise your involvement in Limolux, and do it with unequaled style.",
+    text: "Investigate California's head wineries and shop bottling works, crossing from the Sonoma County to the Napa Valley. Travel flawlessly and securely between these uncommon locations in our lavish driver driven vehicles. Whether it's a heartfelt event with an accomplice or a gathering experience, raise your involvement in Road Roamer, and do it with unequaled style.",
     title: "Wine tours",
     img: "/wine-tour.jpg",
     variant1: fadeIn("left", "tween", 0.2, 1),
@@ -162,31 +162,31 @@ export const insights = [
     imgUrl: "/car-1.jpg",
     title: "Luxury Sedan",
     subtitle:
-      "Experience the encapsulation of luxury with Limolux's astonishing decision of premium vehicles. Whether you pick a Mercedes-Benz E-Class, BMW 5 Series, Lexus ES300, or a similar upscale model, our extent of lavishness vehicles is planned to lift every occasion. Lower yourself in the predictable blend of cutting edge development, unequaled comfort, and unparalleled sensibility all at a sensible expense. Find the allure of refinement as you set out on your cycle in style with Limolux.",
+      "Experience the encapsulation of luxury with Road Roamer's astonishing decision of premium vehicles. Whether you pick a Mercedes-Benz E-Class, BMW 5 Series, Lexus ES300, or a similar upscale model, our extent of lavishness vehicles is planned to lift every occasion. Lower yourself in the predictable blend of cutting edge development, unequaled comfort, and unparalleled sensibility all at a sensible expense. Find the allure of refinement as you set out on your cycle in style with Road Roamer.",
   },
   {
     imgUrl: "/premium-sedan.jpg",
     title: "Premium Sedan",
     subtitle:
-      "Limolux presents a handpicked determination of the best extravagance vehicles for the individuals who request only awesome. Look over the lofty BMW 7 Series, the notorious Mercedes-Benz S-Class, the modern Audi A8, or practically identical tip top models. Our vehicles are not simply include pressed; they address the zenith of current extravagance cars. With Limolux, you'll make a stupendous entry, blowing some people's minds and delighting in outright style and solace. Lift your appearance and have an enduring effect with our impeccable fleet of luxury automobiles.",
+      "Road Roamer presents a handpicked determination of the best extravagance vehicles for the individuals who request only awesome. Look over the lofty BMW 7 Series, the notorious Mercedes-Benz S-Class, the modern Audi A8, or practically identical tip top models. Our vehicles are not simply include pressed; they address the zenith of current extravagance cars. With Road Roamer, you'll make a stupendous entry, blowing some people's minds and delighting in outright style and solace. Lift your appearance and have an enduring effect with our impeccable fleet of luxury automobiles.",
   },
   {
     imgUrl: "/car-3.jpg",
     title: "Luxury SUV",
     subtitle:
-      "Limolux offers an answer for those looking for both more than adequate baggage limit and positive extravagance. Investigate our determination of premium SUVs, including the Mercedes-Benz GLE, BMW X5, and comparable upscale models. These extravagance SUVs give similar remarkable elements tracked down in our extravagance cars while offering additional room for your possessions. Express farewell to splits the difference and raise your movement experience with Limolux's sumptuous SUVs, where style and capacity flawlessly coincide.",
+      "Road Roamer offers an answer for those looking for both more than adequate baggage limit and positive extravagance. Investigate our determination of premium SUVs, including the Mercedes-Benz GLE, BMW X5, and comparable upscale models. These extravagance SUVs give similar remarkable elements tracked down in our extravagance cars while offering additional room for your possessions. Express farewell to splits the difference and raise your movement experience with Road Roamer's sumptuous SUVs, where style and capacity flawlessly coincide.",
   },
   {
     imgUrl: "/car-4.jpg",
     title: "Van",
     subtitle:
-      "Find the Mercedes-Benz V-Class, a top decision for obliging 5-6 travelers easily with more than adequate baggage space. This open extravagance individual’s mover flaunts enormous back seats and a liberal boot, guaranteeing a smooth and spacious excursion. Prestigious overall for its flexibility, the Mercedes V-Class sets the norm for moving travelers in style and refinement. Raise your gathering travel insight with this remarkable vehicle from Limolux.",
+      "Find the Mercedes-Benz V-Class, a top decision for obliging 5-6 travelers easily with more than adequate baggage space. This open extravagance individual’s mover flaunts enormous back seats and a liberal boot, guaranteeing a smooth and spacious excursion. Prestigious overall for its flexibility, the Mercedes V-Class sets the norm for moving travelers in style and refinement. Raise your gathering travel insight with this remarkable vehicle from Road Roamer.",
   },
   {
     imgUrl: "/car-5.jpg",
     title: "Transporter",
     subtitle:
-      "Limolux gladly presents the Mercedes-Benz Runner and Renault Masterbus, ideal for obliging bigger gatherings of up to eleven individuals. These lofty vehicles are the favored decision for leaders, as well as those looking for consistent transportation for air terminal exchanges, weddings, and corporate occasions. Raise your gathering travel insight with Limolux, where extravagance, solace, and style combine. For requests, if it's not too much trouble, connect with us today. Your excursion with us starts with a straightforward call.",
+      "Road Roamer gladly presents the Mercedes-Benz Runner and Renault Masterbus, ideal for obliging bigger gatherings of up to eleven individuals. These lofty vehicles are the favored decision for leaders, as well as those looking for consistent transportation for air terminal exchanges, weddings, and corporate occasions. Raise your gathering travel insight with Limolux, where extravagance, solace, and style combine. For requests, if it's not too much trouble, connect with us today. Your excursion with us starts with a straightforward call.",
   },
 ];
 
@@ -195,7 +195,7 @@ export const steps = [
     name: "Enter Ride Details",
   },
   {
-    name: "Choose a Vahicle",
+    name: "Choose a Vehicle",
   },
   {
     name: "Enter Contact Details",
