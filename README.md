@@ -1,10 +1,8 @@
-## 🚨 Tutorial
+## <a name="introduction">Introduction</a>
 
-This repository contains the corresponding tutorial available on our YouTube channel, <a href="https://www.youtube.com/@CodeScrapperOfficial/videos" target="_blank"><b>Code Scrapper</b></a>.
-
-## <a name="introduction">🤖 Introduction</a>
-
-Our Car rental is a streamlined project management tool designed to enhance productivity and team collaboration. It offers intuitive free map location, stripe integration and smtp email send capabilities to adapt to various workflows. Ideal for individuals and teams looking for an efficient way to online order car for rent and pay.
+Road Runner is an innovative car rental application with customizable car selection based on passenger count and distance preference.
+Integrated with a user-friendly map functionality, Stripe payment processing, and SMTP email sending capabilities to streamline rental processes for both individuals and teams, enhancing efficiency and convenience.
+Leveraging Stripe payment gateway, Leaflet mapping library, and MongoDB API to develop robust payment, mapping, database features.
 
 ## <a name="tech-stack">Tech Stack</a>
 
@@ -29,12 +27,6 @@ Make sure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
 
-**Clone this Project**
-
-```bash
-git clone https://github.com/CodeScrapper1/car-rental-app.git
-cd car-rental-app
-```
 
 **Installation**
 
