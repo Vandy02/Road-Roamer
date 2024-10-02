@@ -1,4 +1,4 @@
-import connect from "@/lib/connect";
+//import connect from "@/lib/connect";
 import Order from "@/models/Order";
 const stripe = require("stripe")(
   "sk_test_51K5JddHXJ4qAJI8AEhv4anmKNCeq3wp53vjqCpRo8iHTSUJux0IVDjoaYiQ0peTVxVgHdGJiWp6BTWAcgTSHMK7b00Gxx8vv1C"
