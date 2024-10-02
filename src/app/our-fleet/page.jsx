@@ -11,7 +11,7 @@ const Ourfleet = () => {
         text="Whether you’re after pure luxury or a high capacity transporter, we have a vehicle for any occasion. What will you choose?"
       />
       <div className="relative">
-        <Insights isForm={false} />
+        {/*<Insights isForm={false} /> */}
       </div>
     </div>
   );
